@@ -149,3 +149,8 @@ button:hover {
         width: 100%;
     }
 }
+   /* Accessibility improvement */
+   button:focus, input:focus, select:focus {
+       outline: 2px solid #3498db;
+       outline-offset: 2px;
+   }
