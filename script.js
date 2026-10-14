@@ -1,4 +1,5 @@
-// 1. Select elements
+// 1. Sele
+//    // Includes: Add notes, categories, validation, and delete features.ct elements
 const noteForm = document.querySelector('#note-form');
 const noteInput = document.querySelector('#note-input');
 const noteCategory = document.querySelector('#note-category');
